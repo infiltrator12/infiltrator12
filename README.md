@@ -6,7 +6,7 @@
 - 🎮 Do you play Video games? Well I do FIFA, COD, Ghost of Ushima...
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_a.kagami_/ 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_a.kagami_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willy-john-3028b9210/)
 
 ## 🛠 Tech Stack:
