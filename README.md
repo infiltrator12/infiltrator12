@@ -1,6 +1,6 @@
 ## About Me:
 - 👨‍💻 I'm John Mwangi, Software Engineer based in Nairobi, Kenya.
-- 🚀 I'm passionate about building Mobile and Web apps, 2D and 3D games.
+- 🚀 I'm passionate about building Mobile and Web apps, 2D and 3D gameDevelopment.
 - 🌱 I’m currently learning NextJS.
 - 💬 Ask me about Android, Web or gamedevelopment.
 - 🎮 Do you play Video games? Well I do FIFA, COD, Ghost of Ushima...
