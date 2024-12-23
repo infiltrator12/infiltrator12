@@ -31,4 +31,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=infiltrator12&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=infiltrator12&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Profile Views](https://komarev.com/ghpvc/?username=iinfiltrator12&style=for-the-badge)
+![Profile Views](https://trial-murex-nu.vercel.app/index.html)
