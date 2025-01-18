@@ -26,10 +26,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=python&logoColor=white)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=infiltrator12&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=infiltrator12&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=infiltrator12&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🚀 Streak Tracker
 This badge tracks your daily contributions streak:
