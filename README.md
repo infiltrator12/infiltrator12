@@ -1,9 +1,9 @@
 ## About Me:
 - 👨‍💻 I'm John Mwangi, Software Engineer based in Nairobi, Kenya.
-- 🚀 I'm passionate about building Mobile and Web apps, 2D and 3D gameDevelopment.
+- 🚀 I'm passionate about building Mobile and Web apps, 2D and 3D game Development.
 - 🌱 I’m currently learning NextJS.
-- 💬 Ask me about Android, Web or gamedevelopment.
-- 🎮 Do you play Video games? Well I do FIFA, COD, Ghost of Ushima...
+- 💬 Ask me about Android, Web, or game development.
+- 🎮 Do you play Video games? Well, I do FIFA, COD, Ghost of Tsushima...
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_a.kagami_/)
@@ -30,5 +30,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=infiltrator12&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=infiltrator12&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=infiltrator12&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🚀 Streak Tracker
+This badge tracks your daily contributions streak:
+![GitHub Streak](https://streak-stats.demolab.com/?user=infiltrator12&theme=radical&hide_border=false)
+
+---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iinfiltrator12&style=for-the-badge)
